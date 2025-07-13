@@ -11,7 +11,7 @@ const About = () => {
         <div className='flex w-full flex-col lg:flex-row items-center gap-20 my-20'>
             {/* Left */}
             <div className='w-64 sm:w-80 rounded-3xl max-w-none'>
-                <Image src={assets.user_image} alt='user' className='w-full rounded-3xl shadow-xl/70' />
+                <Image src='/Portfolio_pic.png' width={900} height={900} alt='user' className='w-full rounded-3xl shadow-xl/70' />
             </div>
             {/* Right */}
             <div className='flex-1'>

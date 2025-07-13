@@ -37,6 +37,7 @@ import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import my_logo from './my_logo.png';
 
+
 export const assets = {
     user_image,
     code_icon,
