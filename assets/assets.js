@@ -81,24 +81,27 @@ export const assets = {
 
 export const workData = [
     {
+        title: 'Full-Stack project',
+        description: 'AI Image-Generator',
+        bgImage: '/work_5.png',
+        url: "https://github.com/prsSng383/AI-image-Generation"
+    },
+    {
+        title: 'JavaScript project',
+        description: 'Fun-Game',
+        bgImage: '/work_6.png',
+        url: "https://bubble-game-with-js.vercel.app/"
+    },
+    {
         title: 'Frontend project',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
+        description: 'Web Design & SEO',
+        bgImage: '/work_7.png',
+        url:"https://prssngmovieapp.vercel.app/"
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
-    },
-    {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
-    },
-    {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
+        title: 'More Coming Soon..',
+       
+        
     },
 ]
 
