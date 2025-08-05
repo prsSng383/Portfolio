@@ -14,6 +14,8 @@ const Work = () => {
     { src: "/work_7.png", alt: "Image 1" ,  title: 'Frontend project',description: 'Web Design & SEO',url:"https://prssngmovieapp.vercel.app/"  },
     { src: "/work_6.png", alt: "Image 2" , title: 'JavaScript project',description: 'Fun-Game',  url: "https://bubble-game-with-js.vercel.app/" },
     { src: "/work_8.png", alt: "Image 3" , title: 'Full-Stack project', description: 'AI Image-Generator',url: "https://github.com/prsSng383/AI-image-Generation"},
+    { src: "/work_9.png", alt: "Image 4" , title: 'Full-Stack project', description: 'MERN_Auth_Sys',url: "https://mern-auth-system-frontend-opal.vercel.app"},
+    { src: "/work_10.png", alt: "Image 5" , title: 'Full-Stack project', description: 'CHAT_APP_Scoket.io',url: "https://chat-app-frontend-sage-theta.vercel.app/login"},
   ]
   return (
     // <div id='work' className='w-full px-[12%] py-10 scroll-mt-20'>
